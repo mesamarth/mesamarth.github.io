@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samarth</h1>
-<h3 align="center">A Mechanical Design engineer from India</h3>
+<h3 align="center">Mechanical Design engineer from India</h3>
 
 <div align="center">  <a href="https://sites.google.com/view/samarthpatil"> Click here for Portfolio </a> </div>
-
-- 👨‍💻 All of my projects are available at [mesamarth.github.io](mesamarth.github.io)
-
-- 📝 I regularly write articles on [medium.com/@samarthink](medium.com/@samarthink)
-
-- 📫 How to reach me **samarth.create@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
