@@ -1,5 +1,3 @@
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <h1 align="left">Hi 👋, I'm Samarth</h1>
 <h3 align="left">Mechanical Engineer from India </h3>
 <p align="left">
