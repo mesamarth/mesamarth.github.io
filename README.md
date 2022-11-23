@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Samarth</h1>
 <h3 align="left">Mechanical Engineer from India </h3>
-<p align="left">
+<p align="justify">
 " I am an enthusiastic contributor, willing to contribute value while in the position of responsibility. I have a deep-rooted interest in new technologies and innovations within the engineering and technology industry. My recent work at Efficycle has enabled me to rapidly progress in my skills in a wide range of engineering disciplines as well as gain a wide range of business and project management knowledge. "
 </p>
 <h4 align="left"> for projects, experience and more..</h4>
