@@ -4,9 +4,9 @@
 <h3 align="center">Mechanical Design Engineer from India </h3>
 
 <p>&nbsp;</p>
-I am an enthusiastic contributor, willing to contribute value while in the position of responsibility. I have a deep-rooted interest in new technologies and innovations within the engineering and technology industry. My recent work at Efficycle has enabled me to rapidly progress in my skills in a wide range of engineering disciplines as well as gain a wide range of business and project management knowledge 
-
-<a><button name="button" style = "color: blue" onclick="https://sites.google.com/view/samarthpatil">`View Portfolio` </button> </a>
+<p align="center">
+<a href="https://linkedin.com/in/samarthcreate" target="blank"><img align="center" src="https://drive.google.com/file/d/1Nfr49OHNQJ3xBP31dqhbxgbMfVKE0BKF/view?usp=sharing" height="30" width="30" /></a> &nbsp; &nbsp;
+</p>
 
 
 <p align="center">
