@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Samarth</h1>
 <h3 align="left">Mechanical Engineer from India </h3>
 <p align="justify">
-"I am a contributor in field of mechanical design and product development. I have a deep-rooted interest in new technologies and innovations within the engineering and technology industry. My recent work at Aaryans Efficycle has enabled me to rapidly progress in my skills in a wide range of engineering disciplines as well as gain a wide range of business and project management knowledge. "
+"I am an enthusiastic contributor having a deep-rooted interest in new technologies and innovations within the engineering and technology industry. My recent work at Aaryans Efficycle and internships has enabled me to rapidly progress in my skills in a wide range of engineering disciplines as well as business and project management knowledge.
+"
 </p>
-<h4 align="left"> For projects, experience and more.. &nbsp; <a href="https://sites.google.com/view/samarthpatil" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2901/2901214.png" alt="linkedin" height="30" width="30" /></a></h4>
-<p align="left"> <a href="https://sites.google.com/view/samarthpatil" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2774/2774523.png" alt="linkedin" height="60" width="60" /></a> &nbsp; &nbsp;
+<h4 align="left"> For projects, experience and more... &nbsp; <a href="https://sites.google.com/view/samarthpatil" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2901/2901214.png" alt="linkedin" height="30" width="30" /></a></h4>
 </p>
 <p>&nbsp;</p>
 
