@@ -4,7 +4,7 @@
 "I am a contributor in field of mechanical design and product development. I have a deep-rooted interest in new technologies and innovations within the engineering and technology industry. My recent work at Aaryans Efficycle has enabled me to rapidly progress in my skills in a wide range of engineering disciplines as well as gain a wide range of business and project management knowledge. "
 </p>
 <h4 align="left"> for projects, experience and more..</h4>
-<p align="left"> <a href="https://sites.google.com/view/samarthpatil" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2774/2774523.png" alt="linkedin" height="60" width="60" /></a> &nbsp; &nbsp;
+<p align="left"> <a href="https://sites.google.com/view/samarthpatil" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/6851/6851099.png" alt="linkedin" height="60" width="60" /></a> &nbsp; &nbsp;
 </p>
 <p>&nbsp;</p>
 
