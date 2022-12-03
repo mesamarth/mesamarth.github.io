@@ -10,6 +10,7 @@
 
 
 Think | Design | Engineer
+<p>&nbsp;</p>
 <p align="left">
 <a href="https://www.linkedin.com/in/samarthcreate/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111532.png" alt="linkedin" height="30" width="30" /></a> &nbsp; &nbsp;
 <a href="https://twitter.com/mesamarthpatil" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111738.png" alt="Twitter" height="30" width="30" /></a> &nbsp; &nbsp;
