@@ -10,5 +10,5 @@
 <p align="center" >&nbsp;
 <a href="https://www.linkedin.com/in/samarthcreate/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111532.png" alt="linkedin" height="30" width="30" /></a> &nbsp; &nbsp;
 <a href="https://www.youtube.com/@samarth.create" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111795.png" alt="Youtube" height="35" width="35" /></a> &nbsp; &nbsp;
-<a href="[https://medium.com/@samarthink](https://broad-snowstorm-0a0.notion.site/Samarth-Patil-e370b98d063b4d5b861e7080e6880580?pvs=74)" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/radix/15/notion-logo-512.png" alt="Medium" height="30" width="30" /></a>
+<a href="https://broad-snowstorm-0a0.notion.site/Samarth-Patil-e370b98d063b4d5b861e7080e6880580?pvs=74)](https://broad-snowstorm-0a0.notion.site/Samarth-Patil-e370b98d063b4d5b861e7080e6880580?pvs=4" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/radix/15/notion-logo-512.png" alt="Medium" height="30" width="30" /></a>
 </p>
